@@ -18,7 +18,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 | **22** 27.5.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
 | **23** 3.6.- |  |  |  |  | [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
 | **24** 10.6.- |  |  |  |  | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
-| **25** 17.6.- |  |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)** |  |  |
+| **25** 17.6.- |  |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-perjantaina-216-klo-2359)** |  |  |
 
 ## :mega: Ajankohtaista
 

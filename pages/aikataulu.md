@@ -19,7 +19,7 @@
     * Week 2 report: see [submissions](palautukset.md)
     * Program: Work on implementing the core functionality has been started possibly using library implementations of algorithms and data structures. These will later be replaced with self-made implementations, but in many cases it's easier to use library implementations first.
     * Testing: *Comprehensive* unit testing of the code. (e.g. JUnit tests for Java)
-		* Ensure that when creating new classes you also create tests as soon as possible (preferably in the same submission as the class was created) to make sure that you new implementations work as expected. See [OT materials on unit testing](https://github.com/mluukkai/Ohjelmistotekniikka2018/blob/master/web/junit.md) if needed (Finnish).
+		* Ensure that when creating new classes you also create tests as soon as possible (preferably in the same submission as the class was created) to make sure that you new implementations work as expected. See [OT materials on unit testing](https://github.com/mluukkai/ohjelmistotekniikka-kevat2019/blob/master/web/junit.md) if needed (Finnish).
 
 # Week 3:
 

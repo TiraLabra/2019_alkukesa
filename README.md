@@ -22,10 +22,9 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 
 ## :mega: Ajankohtaista
 
-<!-- * Demotilaisuuden ajankohdat on lyöty lukkoon. Ottakaa yhteyttä jos ette pääse kumpaankaan demotilaisuuteen.
+<!-- * Demotilaisuuden ajankohdat on lyöty lukkoon. Ottakaa yhteyttä jos ette pääse kumpaankaan demotilaisuuteen.-->
  * Doodle linkki demotilaisuuden aikatauluttamiseksi on lähetetty kurssille ilmoittautuneille opiskelijoille. Sähköposti on lähtenyt siihen osoitteseen mikä on weboodiin rekisteröity.
  * Ekat koodikatselmoinnit on jaettu. Katsokaa katselmoitavat labtoolista.
--->
  * Lopullinen palautus perjantaina 21.6. klo 23:59, tähän ei ole saatavilla lisäaikaa.
  * Jos löydät kurssisivuilta kirjoitus- tai muun virheen. Voit seurata [täältä](https://github.com/mluukkai/ohjelmistotekniikka-kevat2019/blob/master/web/typokorjaukset.md) löytyviä ohjeita virheen korjaamisesksi. Hyvistä korjauksista on mahdollista saada yhden kurssipisteen "bug bounty" (max 1 per oppilas)
 

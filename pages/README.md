@@ -41,7 +41,7 @@ Generally the Telegram and IRC chats are linked (bridged) together, so the cours
 
 ## Guidance
 
-* PThere is no weekly course assistance during the summer intensive period. If you want face to face assistance on campus please contact the course assistant.<!--Primarily the course assistant will be available on Fridays 15-18 in class BK107.-->
+* There is no weekly course assistance during the summer intensive period. If you want face to face assistance on campus please contact the course assistant.<!--Primarily the course assistant will be available on Fridays 15-18 in class BK107.-->
 * You may also contact the course assistant through [Telegram](https://t.me/tkttiralabra) or IRC.
 * E-mail also works.
 

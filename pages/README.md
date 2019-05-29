@@ -15,13 +15,13 @@ Detailed course timing is available [here](aikataulu.md).
 | **21** 20.5.- |  |  |  |  | [DL 3 23:59](aikataulu.md#week-3) |  |  |
 | **22** 27.5.- |  |  |  |  | [DL 4 23:59](aikataulu.md#week-4) |  |  |
 | **23** 3.6.- |  |  |  |  | [DL 5 23:59](aikataulu.md#week-5) |  |  |
-| **24** 10.6.- |  |  |  |  | [DL 6 23:59](aikataulu.md#week-6) |  |  |
+| **24** 10.6.- |  |  |  | [Demo](aikataulu.md#demo-session) 14-16<br/>Place TBA | [DL 6 23:59](aikataulu.md#week-6) |  |  |
 | **25** 17.6.- |  |  |  |  | **[Final submission](https://github.com/TiraLabra/2019_3/blob/master/pages/aikataulu.md#final-deadline-exam-week-friday-83-2359)** |  |  |
 
 ## :mega: News
 
-<!-- * Time an place for demonstration sessions has been set. Contact a course assistant if you can't make either of the options.-->
- * Doodle link for demo session planning has been sent to registered students. The email address is the one configured in weboodi.
+* Time for the demonstration session has been set. Contact a course assistant if you can't make the demo session.
+<!-- * Doodle link for demo session planning has been sent to registered students. The email address is the one configured in weboodi.-->
  * First round of code review have been released. Check out labtool for links to repositories to review.
  <!--* Workshop for 8.2. mostly cancelled. Someone may be around for general algorith workshop stuff. If you have lab specific concerns I should be reachable through irc or e-mail.
  * Labtool should now work! -->

@@ -17,13 +17,13 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 | **21** 20.5.- |  |  |  |  | [DL 3 23:59](sivut/aikataulu.md#viikko-3) |  |  |
 | **22** 27.5.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
 | **23** 3.6.- |  |  |  |  | [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
-| **24** 10.6.- |  |  |  |  | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
+| **24** 10.6.- |  |  |  | [Demo](sivut/aikataulu.md#demo-tilaisuus) 14-16<br/>Paikka TBA | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
 | **25** 17.6.- |  |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-perjantaina-216-klo-2359)** |  |  |
 
 ## :mega: Ajankohtaista
 
-<!-- * Demotilaisuuden ajankohdat on lyöty lukkoon. Ottakaa yhteyttä jos ette pääse kumpaankaan demotilaisuuteen.-->
- * Doodle linkki demotilaisuuden aikatauluttamiseksi on lähetetty kurssille ilmoittautuneille opiskelijoille. Sähköposti on lähtenyt siihen osoitteseen mikä on weboodiin rekisteröity.
+* Demotilaisuuden ajankohta on lyöty lukkoon. Ottakaa yhteyttä jos ette pääse paikalle.
+<!-- * Doodle linkki demotilaisuuden aikatauluttamiseksi on lähetetty kurssille ilmoittautuneille opiskelijoille. Sähköposti on lähtenyt siihen osoitteseen mikä on weboodiin rekisteröity.-->
  * Ekat koodikatselmoinnit on jaettu. Katsokaa katselmoitavat labtoolista.
  * Lopullinen palautus perjantaina 21.6. klo 23:59, tähän ei ole saatavilla lisäaikaa.
  * Jos löydät kurssisivuilta kirjoitus- tai muun virheen. Voit seurata [täältä](https://github.com/mluukkai/ohjelmistotekniikka-kevat2019/blob/master/web/typokorjaukset.md) löytyviä ohjeita virheen korjaamisesksi. Hyvistä korjauksista on mahdollista saada yhden kurssipisteen "bug bounty" (max 1 per oppilas)

@@ -15,7 +15,7 @@ Detailed course timing is available [here](aikataulu.md).
 | **21** 20.5.- |  |  |  |  | [DL 3 23:59](aikataulu.md#week-3) |  |  |
 | **22** 27.5.- |  |  |  |  | [DL 4 23:59](aikataulu.md#week-4) |  |  |
 | **23** 3.6.- |  |  |  |  | [DL 5 23:59](aikataulu.md#week-5) |  |  |
-| **24** 10.6.- |  |  |  | [Demo](aikataulu.md#demo-session) 14-16<br/>Place TBA | [DL 6 23:59](aikataulu.md#week-6) |  |  |
+| **24** 10.6.- |  |  |  | [Demo](aikataulu.md#demo-session) 14-16<br/>room B222 | [DL 6 23:59](aikataulu.md#week-6) |  |  |
 | **25** 17.6.- |  |  |  |  | **[Final submission](https://github.com/TiraLabra/2019_3/blob/master/pages/aikataulu.md#final-deadline-exam-week-friday-83-2359)** |  |  |
 
 ## :mega: News
@@ -52,7 +52,7 @@ Generally the Telegram and IRC chats are linked (bridged) together, so the cours
 -->
 ## Demonstration
 
-* <!--Time and place: Monday 6.5. 10-12 D122.-->Hopefully a doodle questionnaire will be sent out after the start of the course with potential times.
+* Time and place: thursday 13.6. 14-16 B222.<!--Hopefully a doodle questionnaire will be sent out after the start of the course with potential times.-->
 * **Mandatory!** Contact the course assistant if you can not make the Demo session. The Demo session is mandatory to get a passing grade!
 * You can present with your own laptop. In this case you may want to arrive early to test that the laptop works properly with the projector.
 * All projects will also be loaded onto a presentation machine, which you may use for the demonstration. However there have been issues with this in the past so presenting with your own laptop is recommended.

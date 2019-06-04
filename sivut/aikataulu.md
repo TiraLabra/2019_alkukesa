@@ -64,7 +64,7 @@
 # Demo tilaisuus:
 
 <!--* Tarkka aika ja paikka varmistuu kurssin kuluessa.-->
-* Aika ja paikka: Torstaina 13.6. 14-16, paikka TBA D122.
+* Aika ja paikka: Torstaina 13.6. 14-16, paikka B222.
 * Mahdollisuus esittää koulun koneelta, mutta aiemmin sen kanssa on ollut ongelmia joten suositeltavaa ottaa oma läppäri.
 * Lyhyt noin 5 minuuttinen esitys ja mahdollisiin kysymyksiin vastailu (riippuen aikataulusta).
 

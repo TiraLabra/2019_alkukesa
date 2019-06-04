@@ -17,7 +17,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 | **21** 20.5.- |  |  |  |  | [DL 3 23:59](sivut/aikataulu.md#viikko-3) |  |  |
 | **22** 27.5.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
 | **23** 3.6.- |  |  |  |  | [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
-| **24** 10.6.- |  |  |  | [Demo](sivut/aikataulu.md#demo-tilaisuus) 14-16<br/>Paikka TBA | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
+| **24** 10.6.- |  |  |  | [Demo](sivut/aikataulu.md#demo-tilaisuus) 14-16<br/>luokassa B222 | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
 | **25** 17.6.- |  |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-perjantaina-216-klo-2359)** |  |  |
 
 ## :mega: Ajankohtaista
@@ -52,7 +52,7 @@ Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsik
 -->
 ## Demotilaisuus
 
-* <!--Paikka ja aika: Maanantai 6.5. 10-12 D122. -->Suunnitelma on laittaa pari viikkoa kurssin alun jälkeen doodle kysely sopivimman demo-ajan löytämiseksi.
+* Paikka ja aika: Torstaina 13.6. 14-16 B222. <!--Suunnitelma on laittaa pari viikkoa kurssin alun jälkeen doodle kysely sopivimman demo-ajan löytämiseksi.-->
 * **PAKOLLINEN!** Ota yhteyttä jos et pääse demotilaisuuteen, se on läpipääsyyn pakollinen!
 * Demota kannattaa omalta kannettavalta. Tässa tapauksessa voi olla hyvä saapua demoon hyvissä ajoin ja varmistaa että projektori toimii koneen kanssa
 * Projektit ladataan myös etukäteen esityskoneelle. Mutta ei omalta koneelta esittäminen ei perinteisesti onnistu kauhean hyvin.

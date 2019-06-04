@@ -64,7 +64,7 @@
 # Demo session:
 
 <!--* The exact time and date will be available later.-->
-* Time and place: Thursday 13.6. 14-16, place TBA.
+* Time and place: Thursday 13.6. 14-16, place B222.
 * You can either present using the class computer or by using your own laptop. Typically using your own laptop is recommended.
 * A short approximately 5 minute presentation of your project and possibly some questions and answers.
 
